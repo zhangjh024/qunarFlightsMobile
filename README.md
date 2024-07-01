@@ -10,3 +10,17 @@
 
 ![Ticket Example](flight-ticket-app/img/作业3.1业务系统移动前端开发参考图.gif)
 
+# 项目运行
+- `cd flight-api`
+- `npm i`
+- `node app.js`
+- `cd flight-ticket-app`
+- `npm i`
+- `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
